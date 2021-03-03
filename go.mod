@@ -1,4 +1,4 @@
-module go_is_fun
+module github.com/vrdong/go_is_fun
 
 go 1.15
 
